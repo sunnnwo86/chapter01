@@ -10,7 +10,7 @@ public class Gugudan02 {
 			for(int j= 1 ; j < 9 ; j++) {
 				
 				int k = j * i;
-				System.out.println(i+"X"+j+"="+k);
+				System.out.print(i+"X"+j+"="+k+"\t" );
 			}
 			System.out.println("=================");
 			
